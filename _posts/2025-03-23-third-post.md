@@ -1,11 +1,11 @@
 ---
 layout: post
-title: My first post
+title: My third post
 ---
 
-### My first Post
+### My Third Post
 
-This is my first post.
+This is my third post.
 I made a list:
 - item 
 - item 

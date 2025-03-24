@@ -1,9 +1,9 @@
 ---
 layout: post
-title: My first post
+title: My second post
 ---
 
-### My first Post
+### My Second Post
 
 This is my first post.
 I made a list:
