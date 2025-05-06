@@ -3,7 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Home
+title:
+menu: home 
 ---
 
 > it is through my healing that i invite others into theirs.
@@ -13,7 +14,6 @@ title: Home
          alt="malebo sephodi"
          width="180"
          height="200">
-  
 </figure>
 
 
