@@ -6,10 +6,7 @@ layout: home
 title: Home
 ---
 
-> Cultivating freedom through the alchemy of personal narrative.
-
-malebo sephodi
-
+> it is through my healing that i invite others into theirs.
 
 <figure>
     <img src="/assets/images/malebo/malebo.png"
@@ -22,6 +19,17 @@ malebo sephodi
 
 
 
-I left my academic career to heed the call for more creative expression in my life. the call is to tell stories to heal, to re-imagine and to re-member. my work is rooted in African Eco-Feminism and i use personal narrative to explain the world. here, you will find my interdisciplinary journey in writing, photography, speaking and organising. may you see yourself reflected in this creative expression 
+Welcome 
+
+i am a South African storyteller based in Germany. i’ve spent many lifetimes reinventing myself. this space is both an offering and an archive of the lessons learnt through my many lives. may the stories here re-member you to your embodied wisdom. 
+come in. 
+breathe. 
+
+More info 
+
+
+explore my musings 
+work with me
+{: .text-justify} 
 
 (very rough still needs work) 

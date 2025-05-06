@@ -1,3 +1,7 @@
+---
+---
+@import "main";
+
 .row {
 	column-count: 2;
 }
@@ -10,4 +14,8 @@
 div {
 	column-count: 2;
 	column-gap: 40px;
+}
+
+.text-justify {
+	text-align: justify-all;
 }

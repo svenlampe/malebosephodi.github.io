@@ -36,11 +36,13 @@ plugins:
   - jekyll-paginate
 show_excerpts: false 
 header_pages:
+  - index.md
   - my_story.md
   - my_work.md
   - my_speaking.md
   - my_projects.md
   - my_contact.md
+  - my_resources.md 
 
 
 
