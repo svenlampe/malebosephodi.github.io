@@ -1,6 +1,24 @@
 /**
  * Site header
  */
+
+.flex-container {
+  display: flex;
+}
+.flex-child-1 {
+  flex: 1;
+  height: 100px;
+  width: 100px;
+  align: left;
+}
+
+
+.flex-child-2 {
+  flex: 1;
+  height: auto;
+  width: 100px;
+  align: right;
+}
 .site-header {
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
