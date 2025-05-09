@@ -9,14 +9,7 @@ menu: home
 
 > it is through my healing that i invite others into theirs.
 
-<figure>
-    <img src="/assets/images/malebo/malebo.png"
-         alt="malebo sephodi"
-         width="180"
-         height="200">
-</figure>
-
-
+![malebo laying in the grass](/assets/images/malebo/02_malebo_grass.jpeg)
 
 
 Welcome 
@@ -32,4 +25,3 @@ explore my musings
 work with me
 {: .text-justify} 
 
-(very rough still needs work) 
