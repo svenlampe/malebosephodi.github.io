@@ -16,6 +16,22 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+  {% assign paragraphs = content | split: "</p>" %}
+    {% assign content_start = paragraphs[0] | slice: 0, 3 %}
+    {{ paragraphs[0] }}
+      {% if content_start == '<p>' %}
+        {{ paragraphs[0] }}
+        {% if paragraphs[0] contains '<!--first-word-->' %}
+
+          {% assign paragraphs[0]=paragraphs[0] | replace_first: '<!--first-word-->', '</span>' %}
+        {% else %}
+          {% assign first_word = paragraphs[0] | remove_first: '<p>' | truncatewords: 1, '' %}
+          {% assign span_word = first_word | append: '</span>' %}
+          {% assign paragraphs[0] = paragraphs[0] | replace_first: first_word, span_word %}
+        {% endif %}
+        {% assign paragraphs[0] = paragraphs[0] | replace_first: '<p>', '<p class="first-p"><span class="first-word">' %}
+      {% endif %}
+    {% assign content = paragraphs | join "</p>" %}
     {{ content }}
   </div>
 
