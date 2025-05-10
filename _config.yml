@@ -35,6 +35,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 show_excerpts: false 
+excerpt_separator: "<!--more-->"
 header_pages:
   - index.md
   - menu_about.md

@@ -1,15 +1,9 @@
 ---
 layout: post
 title: My first post
-excerpt_separator: <!--first-word-->
+theme: feminism
 ---
 
 ### My first Post
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.<!--more--> At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
-This<!--first-word--> is my first post and it won't be the last, it will be a blast!
-I made a list:
-- item 
-- item 
-- item
-
-I can write **bold** or *italic*.
