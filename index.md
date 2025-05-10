@@ -18,10 +18,8 @@ i am a South African storyteller based in Germany. i’ve spent many lifetimes r
 come in. 
 breathe. 
 
-More info 
+[explore my musings](https://malebosephodi.substack.com)
 
-
-explore my musings 
-work with me
+[work with me](/contact/)
 {: .text-justify} 
 

@@ -8,7 +8,19 @@ layout: default
   </header>
 
   <div class="post-content">
-    {{ content }}
+    <ul class="blog-list">
+      {% for post in site.posts %}
+	<li>
+	  {% assign date_format = site.minima.date_format %}
+	  <span class="post-meta">{{ post.date | date: date_format }}</span>
+	  <p>
+   	    <a class="post-link" href="{{ post.url | relative_url }}">
+	      {{ post.title | escape }}
+  	    </a>
+ 	  </p>	    
+	</li>
+      {% endfor %}
+	</ul>
   </div>
 
 </article>

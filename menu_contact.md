@@ -1,7 +1,8 @@
 ---
 layout: page
 title: 
-menu: work with me
+menu: contact 
+permalink: /contact/
 ---
 
 ## Work with me

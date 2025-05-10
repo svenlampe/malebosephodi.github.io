@@ -16,7 +16,6 @@ i hold space for deep introspection, meaningful connection and transformation th
 
 ## Offerings 
 
-## Catalogue 
 
 ### Tailored Keynotes and Lectures 
 custom-crafted talks infused with story -- perfect for conferences, festivals and institutions 
@@ -34,22 +33,23 @@ Themes:
 
 This is not an exhaustive list. get in contact to discuss your needs 
 
-### Panel Conversations
-i bring heart, clarity and authenticity to panel spaces, both as a panellist and moderator 
 
 ### Facilitation and Workshops 
 creating safe, sacred containers for: 
 - storytelling
 - writing and photography for healing 
-- healing circles (embodiment, writing and photography as healing methods)
+- healing circles 
 - African Feminism 
 - Digital Technology and Society
-- Nature as Kin (The Natural World and the Arts)
+- The Natural World and the Arts
 
+### Panel Conversations
+i bring heart, clarity and authenticity to panel spaces, both as a panellist and moderator 
 
 ### Podcast Guest 
 a soulful, reflective voice for intimate, meaningful dialogue. let’s talk about healing, identity, tech, activism, spirituality, nature or whatever your spirit is calling in 
 {: .text-justify}
+
 ### One-on-one chat 
 this is an informal chat for 30 minutes about anything and everything. - donation-based 
 
